@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🍺🥨 I am a Munich based frontend engineer with many years of professional experience.
+- 🍺 I am a Munich based frontend engineer with many years of professional experience.
 - ⚡ I create fast, scalable and beautiful user interfaces with a modern technology stack. 
 - 📚 I am also interested in continuous learning and education_
 
