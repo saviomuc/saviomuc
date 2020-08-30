@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/1830601/91658400-2696d780-eac8-11ea-9d0f-43fd55185574.png)
 
-- 🔭 I’m currently working on setting up a learn in public workflow
-- 📚 I’m interested in continuous learning and education. Things I'm learning: https://github.com/saviomuc/til
+- Mostly JS. Often TS. Sometimes Python. Currently conflicted on Golang vs Rust
+- 📚 I’m interested in continuous learning and education. 
+- 🌱 Things I'm learning everyday: https://github.com/saviomuc/til
 
 ![image2](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif)
 
