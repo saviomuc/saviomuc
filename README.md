@@ -1,4 +1,18 @@
-![image](https://user-images.githubusercontent.com/1830601/91658400-2696d780-eac8-11ea-9d0f-43fd55185574.png)
+```
+ __    __   _______  __       __        ______    __  
+|  |  |  | |   ____||  |     |  |      /  __  \  |  | 
+|  |__|  | |  |__   |  |     |  |     |  |  |  | |  | 
+|   __   | |   __|  |  |     |  |     |  |  |  | |  | 
+|  |  |  | |  |____ |  `----.|  `----.|  `--'  | |__| 
+|__|  |__| |_______||_______||_______| \______/  (__) 
+
+Señor Software Engineer. 
+First of his name. 
+Creator of bugs.
+Destroyer of features.
+                                                      
+```
+
 
 - ⚡ Mostly JS. Often TS. Sometimes Python. Currently conflicted on Golang vs Rust
 - 📚 I’m interested in continuous learning and education. 
