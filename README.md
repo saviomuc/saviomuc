@@ -21,7 +21,7 @@ Destroyer of features.
 
 ![image2](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif)
 
-##
+![https://exo.pet/images/rules/rainbowline.gif](https://exo.pet/images/rules/rainbowline.gif)
 
 ![https://en.wikipedia.org/wiki/Yahoo!_GeoCities](https://github.com/saviomuc/saviomuc/blob/master/geocities.gif)
 ![https://github.com/saviomuc/saviomuc/blob/master/macmade2.gif](https://github.com/saviomuc/saviomuc/blob/master/macmade2.gif)
