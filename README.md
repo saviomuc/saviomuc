@@ -14,12 +14,12 @@ Destroyer of features.
 
 ## About me
 
+<img align="right" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" />
 
 - ⚡ Mostly JS. Often TS. Sometimes Python. Currently conflicted on Golang vs Rust
 - 📚 I’m interested in continuous learning and education. 
 - 🌱 Things I'm learning everyday: https://github.com/saviomuc/til
 
-![image2](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif)
 
 
 
