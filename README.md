@@ -24,7 +24,7 @@ Destroyer of features.
 
 
 ## My friendzz
-![https://github.com/saviomuc/saviomuc/blob/master/tom.jpeg](https://github.com/saviomuc/saviomuc/blob/master/tom.jpeg)
+![https://github.com/saviomuc/saviomuc/blob/master/tom.jpeg](https://github.com/saviomuc/saviomuc/blob/master/tom.jpeg) <br />
 To add you as a friend please click [here](https://github.com/saviomuc/saviomuc/edit/master/README.md)
 
 
