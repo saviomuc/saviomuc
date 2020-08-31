@@ -23,11 +23,12 @@ Destroyer of features.
 
 
 
-## Cool stuff
+## My friendzz
+![https://github.com/saviomuc/saviomuc/blob/master/tom.jpeg](https://github.com/saviomuc/saviomuc/blob/master/tom.jpeg)
 
-![https://www.remwebsolutions.com/userContent/images/BlogImages/Ryan/DOTT/tentacle.gif](https://www.remwebsolutions.com/userContent/images/BlogImages/Ryan/DOTT/tentacle.gif)
 
 ## Guestbook
+~*♡ Thanks for checking out my site! ♡* ~
 
  Please leave a guestbook entry [here](https://github.com/saviomuc/saviomuc/issues). ![gb](https://web.archive.org/web/20090802183059/http://www.geocities.com/TheTropics/9977/guestbook.gif)
 
