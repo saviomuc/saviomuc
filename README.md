@@ -21,6 +21,15 @@ Destroyer of features.
 
 ![image2](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif)
 
+
+## Guestbook
+
+ Please leave a guestbook entry [here](https://github.com/saviomuc/saviomuc/issues). ![gb](https://web.archive.org/web/20090802183059/http://www.geocities.com/TheTropics/9977/guestbook.gif)
+
+Press Ctrl-D now to bookmark this page
+
+
+
 ![https://exo.pet/images/rules/rainbowline.gif](https://exo.pet/images/rules/rainbowline.gif)
 
 ![https://anlucas.neocities.org/bookmark_this_page.gif](https://anlucas.neocities.org/bookmark_this_page.gif)
