@@ -12,6 +12,8 @@ Creator of bugs.
 Destroyer of features.                                                    
 ```
 
+## About me
+
 
 - ⚡ Mostly JS. Often TS. Sometimes Python. Currently conflicted on Golang vs Rust
 - 📚 I’m interested in continuous learning and education. 
@@ -19,7 +21,9 @@ Destroyer of features.
 
 ![image2](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif)
 
-![https://github.com/saviomuc/saviomuc/blob/master/geocities.gif](https://github.com/saviomuc/saviomuc/blob/master/geocities.gif)
+## 
+
+![https://en.wikipedia.org/wiki/Yahoo!_GeoCities](https://github.com/saviomuc/saviomuc/blob/master/geocities.gif)
 ![https://github.com/saviomuc/saviomuc/blob/master/macmade2.gif](https://github.com/saviomuc/saviomuc/blob/master/macmade2.gif)
 ![https://github.com/saviomuc/saviomuc/blob/master/netscape.gif](https://github.com/saviomuc/saviomuc/blob/master/netscape.gif)
 ![https://github.com/saviomuc/saviomuc/blob/master/real.gif](https://github.com/saviomuc/saviomuc/blob/master/real.gif)
@@ -27,6 +31,9 @@ Destroyer of features.
 ![https://github.com/saviomuc/saviomuc/blob/master/winamp.gif](https://github.com/saviomuc/saviomuc/blob/master/winamp.gif)
 
 ---
+This site is best viewed in Netscape Navigator 4+ <br />Copyright ©1996 sav10muC
+
+
 ![https://github.com/saviomuc/saviomuc/blob/master/valid.png](https://github.com/saviomuc/saviomuc/blob/master/valid.png)
 
 <!--
