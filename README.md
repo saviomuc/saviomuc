@@ -21,7 +21,7 @@ Destroyer of features.
 
 ![image2](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif)
 
-## 
+##
 
 ![https://en.wikipedia.org/wiki/Yahoo!_GeoCities](https://github.com/saviomuc/saviomuc/blob/master/geocities.gif)
 ![https://github.com/saviomuc/saviomuc/blob/master/macmade2.gif](https://github.com/saviomuc/saviomuc/blob/master/macmade2.gif)
@@ -30,7 +30,8 @@ Destroyer of features.
 ![https://github.com/saviomuc/saviomuc/blob/master/shockwave.gif](https://github.com/saviomuc/saviomuc/blob/master/shockwave.gif)
 ![https://github.com/saviomuc/saviomuc/blob/master/winamp.gif](https://github.com/saviomuc/saviomuc/blob/master/winamp.gif)
 
-##
+---
+
 ```
 This site is best viewed in Netscape Navigator 4+
 Copyright ©1996 - 2020 saviomuc
@@ -38,6 +39,8 @@ Copyright ©1996 - 2020 saviomuc
 
 
 ![https://github.com/saviomuc/saviomuc/blob/master/valid.png](https://github.com/saviomuc/saviomuc/blob/master/valid.png)
+
+
 
 <!--
 **saviomuc/saviomuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
