@@ -27,9 +27,11 @@ Destroyer of features.
 ## Guestbook
 ~*♡ Thanks for checking out my site! ♡* ~
 
-<br />
 
-![gb](https://web.archive.org/web/20090802183059/http://www.geocities.com/TheTropics/9977/guestbook.gif) Please leave a guestbook entry [here](https://github.com/saviomuc/saviomuc/issues). 
+
+![gb](https://web.archive.org/web/20090802183059/http://www.geocities.com/TheTropics/9977/guestbook.gif) 
+
+Please leave a guestbook entry [here](https://github.com/saviomuc/saviomuc/issues). 
 
 Press Ctrl-D now to bookmark this page
 
