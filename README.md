@@ -18,7 +18,6 @@ Destroyer of features.
 
  ⚡ Mostly JS. Often TS. Sometimes Python. Currently conflicted on Golang vs Rust <br />
  📚 I’m interested in continuous learning and education.  <br />
- 🌱 Things I'm learning everyday: https://github.com/saviomuc/til  <br /> <br /> <br /> <br />
 
 
 
