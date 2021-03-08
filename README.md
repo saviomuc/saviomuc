@@ -16,7 +16,7 @@ Destroyer of features.
 
 <img align="left" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" />
 
- ⚡ Mostly JS. Often TS. Sometimes Python. Currently conflicted on Golang vs Rust <br />
+ ⚡ Mostly JS <br />
  📚 I’m interested in continuous learning and education.  <br />
 
 
