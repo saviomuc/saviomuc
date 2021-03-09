@@ -25,27 +25,6 @@ Destroyer of features.
 
 
 
-![https://exo.pet/images/rules/rainbowline.gif](https://exo.pet/images/rules/rainbowline.gif)
-
-![https://anlucas.neocities.org/bookmark_this_page.gif](https://anlucas.neocities.org/bookmark_this_page.gif)
-![https://en.wikipedia.org/wiki/Yahoo!_GeoCities](https://github.com/saviomuc/saviomuc/blob/master/geocities.gif)
-![https://github.com/saviomuc/saviomuc/blob/master/macmade2.gif](https://github.com/saviomuc/saviomuc/blob/master/macmade2.gif)
-![https://github.com/saviomuc/saviomuc/blob/master/netscape.gif](https://github.com/saviomuc/saviomuc/blob/master/netscape.gif)
-![https://github.com/saviomuc/saviomuc/blob/master/real.gif](https://github.com/saviomuc/saviomuc/blob/master/real.gif)
-![https://github.com/saviomuc/saviomuc/blob/master/shockwave.gif](https://github.com/saviomuc/saviomuc/blob/master/shockwave.gif)
-![https://github.com/saviomuc/saviomuc/blob/master/winamp.gif](https://github.com/saviomuc/saviomuc/blob/master/winamp.gif)
-
----
-
-```
-This site is best viewed in Netscape Navigator 4+
-Copyright ©1996 - 2020 saviomuc
-```
-
-
-![https://github.com/saviomuc/saviomuc/blob/master/valid.png](https://github.com/saviomuc/saviomuc/blob/master/valid.png)
-
-
 <!--
 **saviomuc/saviomuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
