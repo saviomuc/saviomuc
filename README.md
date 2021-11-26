@@ -5,7 +5,9 @@
 |   __   | |   __|  |  |     |  |     |  |  |  | |  | 
 |  |  |  | |  |____ |  `----.|  `----.|  `--'  | |__| 
 |__|  |__| |_______||_______||_______| \______/  (__) 
-                                                   
+
+There is nothing to see here.
+You can now go back to Google Search and LinkedIn.
 ```
 
 
