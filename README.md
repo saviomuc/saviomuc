@@ -5,19 +5,9 @@
 |   __   | |   __|  |  |     |  |     |  |  |  | |  | 
 |  |  |  | |  |____ |  `----.|  `----.|  `--'  | |__| 
 |__|  |__| |_______||_______||_______| \______/  (__) 
-
-Señor Software Engineer. 
-First of his name. 
-Creator of bugs.
-Destroyer of features.                                                    
+                                                   
 ```
 
-## About me
-
-<img align="left" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" />
-
- ⚡ Mostly JS <br />
- 📚 I’m interested in continuous learning and education.  <br />
 
 
 
