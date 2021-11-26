@@ -6,6 +6,7 @@
 |  |  |  | |  |____ |  `----.|  `----.|  `--'  | |__| 
 |__|  |__| |_______||_______||_______| \______/  (__) 
 
+Yes, I am a kitten living in a banana. 
 There is nothing to see here.
 You can now go back to Google Search and LinkedIn.
 ```
